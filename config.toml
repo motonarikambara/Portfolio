@@ -1,0 +1,4 @@
+baseURL = 'http://motonarikambara.github.io/'
+languageCode = 'ja'
+title = "Motonari Kambara"
+theme = "hugo-initio"
