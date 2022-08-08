@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:motonarikambara/motonarikambara.github.io
+	branch = master
