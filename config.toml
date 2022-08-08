@@ -1,4 +1,4 @@
-baseURL = 'http://motonarikambara.github.io/'
+baseURL = 'https://motonarikambara.github.io/'
 defaultContentLanguage = 'ja'
 # title = "Motonari Kambara"
 theme = "hugo-initio"
