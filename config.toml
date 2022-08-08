@@ -108,6 +108,13 @@ theme = "hugo-initio"
     sharethis = false
     network = ""
 [[params.social]]
+	title = "speaker-deck"
+	url = "https://speakerdeck.com/motonarikambara"
+    icon = "fab fa-speaker-deck"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
 	title = "email"
 	url = "motonari.k714@keio.jp"
     icon = "fas fa-envelope-square"
