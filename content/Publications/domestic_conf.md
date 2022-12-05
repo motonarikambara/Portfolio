@@ -1,7 +1,7 @@
 +++
-title = "Publications"
-type = "publications"
-weight = 2
+title = "Domestic Conference"
+type = ""
+weight = 4
 +++
 
 1. 神原元就, 杉浦孔明: “記号接地されたfetch-and-carryタスクの自動化と実行”, 第40回日本ロボット学会学術講演会, 4I1-01, 2022.
@@ -10,4 +10,3 @@ weight = 2
 1. 神原元就, 杉浦孔明: “料理タスクにおける将来イベントのクロスモーダル説明文生成”, 第28回画像センシングシンポジウム 2022, SO3-24・IS3-24, 2022.
 1. 兼田寛大, 神原元就, 杉浦孔明: “Bilingual Case Relation Transformerに基づく複数言語による物体操作指示文生成”, 第39回日本ロボット学会学術講演会, 1I2-06, 2021.
 1. 神原元就, 杉浦孔明: “Case Relation Transformerに基づく対象物体及び目標領域の参照表現を含む物体操作指示文生成”, 2021年度 人工知能学会全国大会, 4J1-GS-6d-05, 2021.
-
