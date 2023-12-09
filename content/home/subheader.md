@@ -3,5 +3,4 @@ type = "subheader"
 title = ""
 +++
 
-I am a Ph.D. student of Information and Computer Science, Keio university.  
-I am interesting in vision and language (V&L), and domestic service robots.
+Hello! I am Motonari Kambara, and I am currently a Ph.D. student in Information and Computer Science at Keio University. My academic and research interests are deeply rooted in the intersection of Vision and Language (V&L), as well as the development and application of domestic service robots.
