@@ -22,7 +22,7 @@ theme = "hugo-initio"
     background = ""
     banner = "images/bg.jpeg"
     favicon = "images/gt_favicon.png"
-    author = "Motnari Kambara"
+    author = "Motonari Kambara"
     DateForm = "August, 2022"
     showSubheader = true
     showServices = true
@@ -86,13 +86,13 @@ theme = "hugo-initio"
 #     footer = false
 #     sharethis = true
 #     network = "googleplus"
-# [[params.social]]
-# 	title = "linkedin"
-# 	url = "https://www.linkedin.com/in/nickname"
-#     icon = "fab fa-linkedin"
-#     footer = false
-#     sharethis = true
-#     network = "linkedin"
+[[params.social]]
+ 	title = "linkedin"
+ 	url = "https://jp.linkedin.com/in/motonari-kambara-3a9330280"
+    icon = "fab fa-linkedin"
+    footer = true
+    sharethis = true
+    network = "linkedin"
 # [[params.social]]
 # 	title = "tumblr"
 # 	url = "https://nickname.tumblr.com"
@@ -107,13 +107,13 @@ theme = "hugo-initio"
     footer = true
     sharethis = false
     network = ""
-[[params.social]]
-	title = "speaker-deck"
-	url = "https://speakerdeck.com/motonarikambara"
-    icon = "fab fa-speaker-deck"
-    footer = true
-    sharethis = false
-    network = ""
+# [[params.social]]
+#	title = "speaker-deck"
+#	url = "https://speakerdeck.com/motonarikambara"
+#    icon = "fab fa-speaker-deck"
+#    footer = true
+#    sharethis = false
+#    network = ""
 [[params.social]]
 	title = "email"
 	url = "motonari.k714@keio.jp"

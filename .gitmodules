@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:motonarikambara/motonarikambara.github.io
 	branch = master
+[submodule "themes/hugo-initio"]
+	path = themes/hugo-initio
+	url = https://github.com/miguelsimoni/hugo-initio.git

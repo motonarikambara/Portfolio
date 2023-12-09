@@ -4,10 +4,13 @@ type = ""
 weight = 1
 +++
 
-- Apr 2021 – present
+- Apr. 2023 – 
     - Keio University
-    - Master of Open and environmental systems (Computer science)
-- Apr 2017 – Mar 2021
+    - Ph.D. student of Open and environmental systems (Computer science)
+- Apr. 2021 – Mar. 2023
     - Keio University
-    - Bachelor of science and engineering (Computer science)
+    - Master student of Open and environmental systems (Computer science)
+- Apr. 2017 – Mar. 2021
+    - Keio University
+    - Bachelor student of science and engineering (Computer science)
 
