@@ -23,10 +23,10 @@ theme = "hugo-initio"
     banner = "images/bg.webp"
     favicon = "images/gt_favicon.png"
     author = "Motonari Kambara"
-    DateForm = "June, 2024"
+    DateForm = "Nov., 2024"
     showSubheader = true
     showServices = true
-    showRecentWorks = true
+    showRecentWorks = false
     showDownloads = true
     showClients = true
 
@@ -68,7 +68,7 @@ theme = "hugo-initio"
 [[params.social]]
 	title = "twitter"
 	url = "https://twitter.com/MotonariKambara"
-    icon = "fab fa-twitter-square"
+    icon = "fab fa-x-twitter"
     footer = true
     sharethis = true
     network = "twitter"
@@ -117,7 +117,7 @@ theme = "hugo-initio"
 [[params.social]]
 	title = "email"
 	url = "motonari.k714@keio.jp"
-    icon = "fas fa-envelope-square"
-    footer = false
+    icon = "fas fa-envelope"
+    footer = true
     sharethis = true
     network = "email"

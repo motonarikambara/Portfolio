@@ -4,10 +4,7 @@ type = ""
 weight = 3
 +++
 
-- Python
-- Pytorch, Tensorflow2
-- ROS
-- GitHub: motonarikambara
-- TOEIC: 800
-- AtCoder rate: 844
+- Python, Pytorch, Tensorflow2, JAX
+- ROS 1&2
+- GitHub: @motonarikambara
 

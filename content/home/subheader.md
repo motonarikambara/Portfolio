@@ -3,8 +3,6 @@ type = "subheader"
 title = ""
 +++
 
-Hello! I am Motonari Kambara.
+I am Motonari Kambara. I am a Research Fellow in [SMI Lab](https://smilab.org/en/) at Keio University. 
 
-I am currently a Ph.D. student in Information and Computer Science at Keio University. 
-
-My academic and research interests are deeply rooted in the intersection of Vision and Language (V&L), as well as the development and application of domestic service robots.
+My academic and research interests are deeply rooted in the intersection of Embodied AI, Vision and Language (V&L), as well as the development and application of domestic service robots.
