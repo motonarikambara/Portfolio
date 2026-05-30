@@ -1,7 +1,7 @@
 +++
 title = "Education"
 type = ""
-weight = 1
+weight = 2
 +++
 
 - Apr. 2023 – Sep. 2025
@@ -13,4 +13,3 @@ weight = 1
 - Apr. 2017 – Mar. 2021
     - Keio University
     - Bachelor (Information and Computer Science)
-

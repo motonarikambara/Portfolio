@@ -4,6 +4,7 @@ type = ""
 weight = 2
 +++
 
+1. K. Katsumata, M. Kambara, D. Yashima, R. Korekata, and K. Sugiura, “Mobile Manipulation Instruction Generation from Multiple Images with Automatic Metric Enhancement”, IEEE RAL presented at IEEE ICRA, 2026. DOI: 10.1109/LRA.2025.3539086.
 1. C. Hori, M. Kambara, K. Sugiura, K. Ota, S. Khurana, S. Jain, R. Corcodel, D. Jha, D. Romeres, J. Le Roux. “Interactive Robot Action Replanning using Multimodal LLM Trained from Human Demonstration Videos”, IEEE ICASSP, pp.6390–6394, 2025. [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10887717)
 1. M. Goko*, M. Kambara*, S. Otsuki, D. Saito, and K. Sugiura (*: Equal contribution), “Task Success Prediction for Open-Vocabulary Manipulation Based on Multi-Level Aligned Representations”, CoRL, 2024. [project page](https://5ei74r0.github.io/contrastive-lambda-repformer.page/), [PDF](https://openreview.net/pdf?id=QtCtY8zl2T)
 1. K. Kaneda, S. Nagashima, R. Korekata, M. Kambara, and K. Sugiura, “Learning-To-Rank Approach for Identifying Everyday Objects Using a Physical-World Search Engine”, IEEE RAL presented at IEEE/RSJ IROS, 2024.
